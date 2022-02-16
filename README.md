@@ -1,4 +1,7 @@
 # Unity Multitaging
+
+<img src="https://github.com/babaukos/screenshots/blob/main/Multitag.png" width="550" height="300">
+
 This project was made with the aim of adding the ability to multi-tag an object
 
 ## Features
